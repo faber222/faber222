@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Faber222/Faber222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+*Técnico em Telecomunicações-----------
+*Analista de suporte Técnico em Redes--
+*Estudante de Engenharia de Telecom---
+*Brinco com comandos nas horas vagas-
