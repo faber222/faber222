@@ -1,4 +1,5 @@
 ### Hi there 👋, I am Faber Bernardo
+![](https://github.com/faber222/faber222/raw/master/animated-name.gif)
 
 **Faber222/Faber222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
