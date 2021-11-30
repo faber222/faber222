@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 *Analista de suporte Técnico em Redes--
 *Estudante de Engenharia de Telecom---
 *Brinco com comandos nas horas vagas-
+
+<div>
+  <a href="https://github.com/faber222">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faber222&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faber222&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
