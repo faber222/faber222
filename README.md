@@ -7,12 +7,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Intelbras
 - 🌱 I’m currently learning C
 - 📫 How to reach me: faberbernardo77@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: *Telecommunications Technician--*Technical Support Analyst in Networks--*Telecom Engineering Student
 
-*Técnico em Telecomunicações-----------
-*Analista de suporte Técnico em Redes--
-*Estudante de Engenharia de Telecom---
-*Brinco com comandos nas horas vagas-
 
 <div>
   <a href="https://github.com/faber222">
