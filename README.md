@@ -3,9 +3,9 @@
 Here are some facts about my profile:
 
 - 🔭 I’m currently working on Intelbras
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: faberbernardo77@gmail.com
-- ⚡ Fun fact: *Telecommunications Technician--*Technical Support Analyst in Networks--*Telecom Engineering Student
+- ⚡ Fun fact: *Telecommunications Technician--*Technical Support Analyst in Networks--*Telecom Engineering Student--*C++ is a magic language
 
 
 <div>
