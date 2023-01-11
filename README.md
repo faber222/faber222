@@ -14,8 +14,6 @@ Here are some facts about my profile:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faber222&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<a href=#><img src="contributions.svg"></a>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/faber222/count.svg" />
