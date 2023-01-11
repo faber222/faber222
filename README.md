@@ -14,13 +14,11 @@ Here are some facts about my profile:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faber222&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/faber222/count.svg" />
 </p>
   
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
