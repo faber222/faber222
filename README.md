@@ -13,12 +13,6 @@ Here are some facts about my profile:
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=faber222&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faber222&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/faber222/count.svg" />
-</p>
   
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
